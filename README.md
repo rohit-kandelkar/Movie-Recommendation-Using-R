@@ -38,3 +38,9 @@ This project uses the [MovieLens dataset](https://grouplens.org/datasets/moviele
    ```bash
    git clone https://github.com/RishavRaj20/Movie-Recommendation_system_using_R.git
    cd Movie-Recommendation_system_using_R
+
+## install these packages
+- install.packages("recommenderlab")
+- install.packages("reshape2")
+- install.packages("ggplot2")
+- install.packages("dplyr")
